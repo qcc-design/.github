@@ -26,6 +26,6 @@ We're always looking for passionate contributors and collaborators.
 
 **Interested in joining the QCC Design organization?**
 
-Please feel free to [Apply Here]() or open an issue in this repository to introduce yourself.
+Please feel free to [Apply Here](https://github.com/qcc-design/.github/issues/new?template=invitation.yml) or open an issue in this repository to introduce yourself.
 
 Let’s build great things together!
