@@ -1,0 +1,25 @@
+name: Membership Application
+
+description: Apply to join the QCC Design organization
+
+title: "Please invite me to the QCC Design"
+
+labels: [✉️ github-invitation]
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Enter your name or GitHub username
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: How did you learn about the QCC Design team? What interests you about QCC Design? Why would you like to join?
+      placeholder: I would like to be part of the awesome team
+    validations:
+      required: false
